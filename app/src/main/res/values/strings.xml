@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Mr.InfoTech</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="otp_verification">OTP verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">we will send you an One Time Password On this mobile number</string>
+    <string name="enter_the_mobile_number">enter the mobile number</string>
+    <string name="_91">+91-</string>
+    <string name="_123456789">123456789</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="sign_in">sign in</string>
+    <string name="forgotten_password">Forgotten password</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="enter_the_username">Enter the Username</string>
+    <string name="mr_infotech">Mr.InfoTech</string>
+    <string name="home_details">Home Details</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_otp">Didn\'t receive OTP?</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify">verify</string>
+    <string name="no_account_sign_up">No account? Sign up</string>
+    <string name="login_with_otp">Login with OTP</string>
+    <string name="username">Username</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="todo">TODO</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_an_account_sign_in">Already an Account?Sign In</string>
+    <string name="loading">Loading...</string>
+    <string name="app_info">App Info</string>
+    <string name="about">about</string>
+    <string name="home">Home</string>
+    <string name="message">Message</string>
+    <string name="sync">Sync</string>
+    <string name="trash">Trash</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="communication">Communication</string>
+    <string name="sharing">Sharing</string>
+    <string name="rate_us">Rate Us</string>
+</resources>

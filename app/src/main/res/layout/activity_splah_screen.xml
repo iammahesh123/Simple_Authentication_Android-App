@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    tools:context=".SplashScreen">
+
+
+    <ImageView
+        android:id="@+id/splash_icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="237dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/splash_icon" />
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/splash_icon"
+        android:fontFamily="@font/poppins_medium"
+        android:gravity="center"
+        android:text="@string/mr_infotech"
+        android:textColor="@color/sky_blue"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+</RelativeLayout>
